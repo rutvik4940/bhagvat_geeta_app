@@ -1,4 +1,4 @@
-![Screenshot_20240403_124831](https://github.com/rutvik4940/bhagvat_geeta_app/assets/153794371/3a72d203-61e1-487e-ae1a-aac32df2f7d0)# bhagvat_geeta_app
+
 
 A new Flutter project.
 
