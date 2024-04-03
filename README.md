@@ -19,8 +19,9 @@ samples, guidance on mobile development, and a full API reference.
 <p>
 <img src="https://github.com/rutvik4940/bhagvat_geeta_app/assets/153794371/16179edf-2687-4478-b7ca-eaf245218b11"
  height="400px" width="200px"/>
- <img src="Screenshot_20240403_124630](https://github.com/rutvik4940/bhagvat_geeta_app/assets/153794371/34e20630-a886-492a-8d1b-56ca5a51d6d4"
+ <img src="https://github.com/rutvik4940/bhagvat_geeta_app/assets/153794371/fda337d6-a041-4ab7-9644-be406b14a8d0"
  height="400px" width="200px"/>
+ 
   <img src="https://github.com/rutvik4940/bhagvat_geeta_app/assets/153794371/dabe0bea-4260-47db-890a-9c983ac0bb36"
  height="400px" width="200px"/>
   <img src="https://github.com/rutvik4940/bhagvat_geeta_app/assets/153794371/14fd8b04-e57b-45b7-9ede-c135d7faeb4a"
